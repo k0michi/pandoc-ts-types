@@ -1,4 +1,4 @@
-// Based on https://github.com/jgm/pandoc-types/blob/master/src/Text/Pandoc/Definition.hs
+// Based on https://github.com/jgm/pandoc-types/blob/8c0c60fd22f453136d456e301e68e397451e24dd/src/Text/Pandoc/Definition.hs
 
 export type PandocJSON = {
   "pandoc-api-version": number[];
