@@ -47,7 +47,7 @@ export type MetaValue = MetaMap
 
 // Blocks
 
-export type Attr = [string, [string], [string, string][]];
+export type Attr = [string, string[], [string, string][]];
 
 export type Format = string;
 
